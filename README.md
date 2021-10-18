@@ -48,5 +48,6 @@ The input for this function is a video and the model chosen for the classificati
   * add the predicted value within an amount that represents the sum of the predictions for the chosen frames for a duration of 5 seconds
   * if amount is represented by more than 70% of predictions corresponding to the drowsiness event, it will show an appropriate message.
 
-
+![](images/ex1.PNG)
+![](images/ex2.PNG)
   
